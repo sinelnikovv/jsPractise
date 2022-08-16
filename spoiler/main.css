@@ -1,0 +1,7 @@
+.spoiler:not(.active) {
+  display: none;
+}
+
+.spoiler.active {
+  display: block;
+}
